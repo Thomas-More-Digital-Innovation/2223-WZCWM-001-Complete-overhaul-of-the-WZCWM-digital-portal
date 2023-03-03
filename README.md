@@ -1,2 +1,1 @@
-# 2223-DI000-TemplateRepo
-Template repository
+# WZCWM-001 overhaul of the digital portal
