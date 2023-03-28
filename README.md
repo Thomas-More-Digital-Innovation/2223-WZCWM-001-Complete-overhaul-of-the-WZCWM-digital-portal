@@ -7,7 +7,7 @@ Nick Bulen and Marnik Maes will take up the project for a complete overhaul of t
 The main objectives of this project are to:
 * Create a new website for De Witte Meren that is modern and user-friendly
 * Implement advanced features to improve the user experience 
-* 
+
 ## Scope
 The scope of the project includes:
 * A complete overhaul of the existing website
